@@ -1,4 +1,4 @@
-baseURL = "https://hungryram1.netlify.app/"
+baseURL = "https://single-agent.netlify.app/"
 languageCode = "en-us"
 summaryLength = 25
 [[menu.footer]]
